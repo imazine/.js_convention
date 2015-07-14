@@ -28,9 +28,9 @@ cd .js_convention
 
 ### Manualy
 
-Copy .jshint file to your repository
+Copy jshintrc file to your repository
 ```
-cp .jshint <your repo>
+cp jshintrc <your repo>/.jshintrc
 ```
 
 Install jshint package
