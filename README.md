@@ -45,3 +45,9 @@ Applying instantly when submodule updated
 git submodule update --remote
 ```
 
+## Useage
+
+```
+jshint <target>
+```
+
