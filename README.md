@@ -8,7 +8,7 @@ It can be contributed by all developers in GS SHOP.
 본 문서는 GS SHOP 내의 모든 개발자가 기여할 수 있습니다.
 
 ## Coding Style Guide
-This style guide intend to smaller code review time at work period.
+This Style Guide is helpful when you want to perform code-review on javascript codebase. You can use it to automate the lint process using this style guide, thereby saving you time development.
 
 본 Style Guide는 개발시 코드리뷰 시간을 줄이기 위해 자동화된 Linting 을 지향합니다.
 ## Installation
